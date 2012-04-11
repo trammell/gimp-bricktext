@@ -1,0 +1,6 @@
+
+
+
+To install:
+
+   ln -sf $(pwd)/bricktext.py ~/.gimp-2.6/plug-ins/
