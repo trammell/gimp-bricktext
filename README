@@ -4,3 +4,11 @@
 To install:
 
    ln -sf $(pwd)/bricktext.py ~/.gimp-2.6/plug-ins/
+
+
+Useful Links
+============
+
+http://www.linuxplanet.com/linuxplanet/tutorials/6720/1
+http://www.linuxplanet.com/linuxplanet/tutorials/6734/1
+
